@@ -10,7 +10,7 @@
 
 <head>
 
-<title>Steph's Site!</title>
+<title>Stephs Site!</title>
 
 </head>
 
