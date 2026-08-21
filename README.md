@@ -8,13 +8,15 @@
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 
+<head>
+
+<title>Steph's Site!</title>
+
+</head>
+
 <body>
 
-
-
-<!-- Content will go here -->
-
-
+<p>test</p>
 
 </body>
 
