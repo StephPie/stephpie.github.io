@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
 
 <meta charset="UTF-8">
@@ -10,13 +8,15 @@
 
 <head>
 
-<title>Stephs Site!</title>
+<title>Steph's Site!</title>
 
 </head>
 
 <body>
 
-<p>test</p>
+<h1>Welcome to my site!</h1>
+
+<p>Something professional here probably</p>
 
 </body>
 
